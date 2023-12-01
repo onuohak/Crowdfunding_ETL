@@ -5,6 +5,8 @@ After transforming the data, I created four CSV files and use the CSV file data 
 
 Uploaded the CSV file data into a Postgres database.
 
+I worked with peers in class to execute conceptual understanding. I completed this work with the input of some others. 
+
 List of Deliverable:
 - Jupyter Notebook
 - SQL databases
